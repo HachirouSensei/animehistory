@@ -23,7 +23,7 @@ h5 {
 
 .container {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/images/sleepinggirl.jpg);
+    url(../images/sleepinggirl.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -176,39 +176,39 @@ h5 {
 /* Before Hover */
 .card-1 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(/images/card11.jpg);
+    url(../images/card11.jpg);
 }
 .card-2 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(/images/card21.jpg);
+    url(../images/card21.jpg);
 }
 .card-3 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(/images/card31.jpg);
+    url(../images/card31.jpg);
 }
 .card-4 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(/images/card41.jpg);
+    url(../images/card41.jpg);
 }
 
 /* On Hover */
 .card-1:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(/images/card12.jpg);
+    url(../images/card12.jpg);
   transform: translateX(-10px);
 }
 .card-2:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(/images/card22.jpg);
+    url(../images/card22.jpg);
   transform: translateX(-10px);
 }
 .card-3:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(/images/card32.jpg);
+    url(../images/card32.jpg);
   transform: translateX(-10px);
 }
 .card-4:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(/images/card42.jpg);
+    url(../images/card42.jpg);
   transform: translateX(-10px);
 }
